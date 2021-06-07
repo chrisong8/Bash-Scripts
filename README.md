@@ -1,1 +1,1 @@
-Bash scripts to scrape UW CSE website
+Bash scripts to scrape UW CSE website, etc.
